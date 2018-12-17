@@ -44,6 +44,7 @@ class App extends React.Component {
       <div>
         <div>{src}</div>
         <button onClick={this.handleClick}>Upload</button>
+        <div>Please choose your text files (you can choose multiple files)</div>
         <input
           type="file"
           ref="input_reader"
