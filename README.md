@@ -1,0 +1,2 @@
+# FileUploadPureJS
+Created with CodeSandbox
